@@ -1,20 +1,65 @@
-@media screen and (max-width: 1800px){
+@media screen and (max-width: 1800px) {
 	.navigation_link {
 		margin-right: 360px;
 	}
+	.about_inform {
+		padding: 0 370px;
+	}
+	.about_us__numbers {
+		padding: 0 450px;
+	}
 }
-@media screen and (max-width: 1600px){
+@media screen and (max-width: 1707px) {
+	.services_basic {
+		padding: 0 350px;
+	}
+	.about_inform {
+		padding: 0 350px;
+	}
+	.about_us__numbers {
+		padding: 0 400px;
+	}
+}
+@media screen and (max-width: 1600px) {
 	.navigation_link {
 		margin-right: 290px;
 	}
+	.services_basic {
+		padding: 0 290px;
+	}
+	.about_inform {
+		padding: 0 290px;
+	}
+	.about_us__numbers {
+		padding: 0 320px;
+	}
 }
-@media screen and (max-width: 1440px){
+@media screen and (max-width: 1440px) {
 	.navigation_link {
 		margin-right: 200px;
 	}
+	.services_basic {
+		padding: 0 210px;
+	}
+	.about_inform {
+		padding: 0 210px;
+	}
+	.about_us__numbers {
+		padding: 0 280px;
+	}
 }
-@media screen and (max-width: 1366px){
+@media screen and (max-width: 1366px) {
 	.navigation_link {
 		margin-right: 100px;
 	}
+	.services_basic {
+		padding: 0 190px;
+	}
+	.about_inform {
+		padding: 0 160px;
+	}
+	.about_us__numbers {
+		padding: 0 210px;
+	}
 }
+
