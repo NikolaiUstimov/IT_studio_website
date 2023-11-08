@@ -714,3 +714,15 @@ button {
 	font-weight: 400;
 	line-height: 158.47%; /* 20.601px */
 }
+
+details > summary {
+	list-style: none;
+}
+details summary::before {
+	content: "\003E";
+	margin-right: 5px;
+	font-size: 14px;
+}
+details[open] summary:before {
+	content: '\2228';
+}

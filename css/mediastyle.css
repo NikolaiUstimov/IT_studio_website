@@ -8,6 +8,9 @@
 	.about_us__numbers {
 		padding: 0 450px;
 	}
+	.all_service_title {
+		padding: 100px 350px 0 350px;
+	}
 }
 @media screen and (max-width: 1707px) {
 	.services_basic {
@@ -18,6 +21,9 @@
 	}
 	.about_us__numbers {
 		padding: 0 400px;
+	}
+	.all_service_title {
+		padding: 100px 300px 0 300px;
 	}
 }
 @media screen and (max-width: 1600px) {
@@ -33,6 +39,9 @@
 	.about_us__numbers {
 		padding: 0 320px;
 	}
+	.all_service_title {
+		padding: 100px 250px 0 250px;
+	}
 }
 @media screen and (max-width: 1440px) {
 	.navigation_link {
@@ -47,6 +56,9 @@
 	.about_us__numbers {
 		padding: 0 280px;
 	}
+	.all_service_title {
+		padding: 100px 170px 0 170px;
+	}
 }
 @media screen and (max-width: 1366px) {
 	.navigation_link {
@@ -60,6 +72,14 @@
 	}
 	.about_us__numbers {
 		padding: 0 210px;
+	}
+	.all_service_title {
+		padding: 100px 130px 0 130px;
+	}
+}
+@media screen and (max-width: 1280px) {
+	.all_service_title {
+		padding: 100px 90px 0 90px;
 	}
 }
 
